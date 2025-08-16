@@ -21,7 +21,9 @@ En primer lugar: python --version (para verificar version instalada de Python)
 Luego introducimos el comando pip --version (Para verificar version pip instalada)
 pip install notebook (Le indica al gestor de paquetes de python (pip) que instale el paquete llamado notebook
 <img width="1478" height="758" alt="image" src="https://github.com/user-attachments/assets/1f1224c0-6497-45f5-b47c-7f4157338baa" />
-Por úlimo iniciamos jupyter notebook: jupyter notebook
+
+##Por úlimo iniciamos jupyter notebook: jupyter notebook
 <img width="1183" height="608" alt="image" src="https://github.com/user-attachments/assets/cbce47f8-9373-458d-bb06-511dffab3899" />
-Se nos abrirá jupyter notebook para comenzar a trabajar
+
+##Se nos abrirá jupyter notebook para comenzar a trabajar
 <img width="1899" height="773" alt="image" src="https://github.com/user-attachments/assets/c99be947-ff28-419e-b629-b4acce167666" />
